@@ -1,0 +1,3 @@
+Chien 
+Oiseau 
+Chat
